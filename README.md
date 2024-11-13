@@ -1,5 +1,5 @@
 # Portfolio
-# README for Rockbuster Stealth Data Analysis Project
+# Rockbuster Stealth Data Analysis Project
 
 ## Project Overview
 This project was designed as part of a data analysis initiative for Rockbuster Stealth LLC, a former global movie rental company planning to re-enter the market with an online video rental service. The goal of this project was to leverage SQL to conduct a comprehensive analysis of Rockbuster's data, addressing key business questions and informing strategic decisions.
